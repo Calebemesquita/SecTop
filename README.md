@@ -1,10 +1,8 @@
-> **Nota:** Este projeto está em fase ativa de desenvolvimento. Além de construir uma ferramenta útil, o propósito central deste repositorio é servir como um laboratório prático (e uma desculpa), para assim o estudo profundo de C++ de baixo nível interações diretas com o Kernel do Linux e arquitetura de sistemas operacionais.
-
-
-# SecTop
-
 # SecTop
 Monitor de rede e segurança para terminal (TUI) focado em performance e análise tática de conexões e detecção de anomalias em tempo real, para linux.
+
+> **Nota do Desenvolvedor:** Este projeto está em fase ativa de desenvolvimento. Além de construir uma ferramenta útil para a comunidade, o propósito central deste repositório é servir como um laboratório prático (e uma excelente desculpa) para o estudo profundo de C++ de baixo nível, interações diretas com o Kernel do Linux e arquitetura de sistemas operacionais.
+
 
 O SecTop foi desenhado para preencher a lacuna entre monitores de recursos genéricos (como `htop` ou `btop`) e ferramentas pesadas de análise de pacotes.
 
